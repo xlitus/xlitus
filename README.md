@@ -1,10 +1,3 @@
-<!--- 
-
-›  𝗥𝗘𝗔𝗗𝗠𝗘.𝗺𝗱
-
---->
-
-
 <div align="center">
 
 ```go
@@ -28,6 +21,13 @@
 ```
 
 [![spotify](https://spotify-github-profile.vercel.app/api/view?uid=31t4h262rp3lt6d5xjg34hbawkta&cover_image=true&theme=natemoo-re&show_offline=true&background_color=000000&interchange=true&bar_color=000000&bar_color_cover=true)](https://discord.gg/NPQsUrnjcM)
+
+
+<p align="center">
+
+[btc](https://rentry.co/0x0x0x0x0x0x0x0x0x0x0x0x0x0x0xx) — [eth](https://rentry.co/0x0x0x0x0x0x0x0x0x0x0x0x0x0) — [bio](https://guns.lol/xLitus)
+
+</p>
 
 <p align="center">
 
