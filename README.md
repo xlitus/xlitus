@@ -20,6 +20,10 @@
 
 ```
 
+![](https://komarev.com/ghpvc/?username=xlitus)
+
+---
+
 [![spotify](https://spotify-github-profile.vercel.app/api/view?uid=31t4h262rp3lt6d5xjg34hbawkta&cover_image=true&theme=natemoo-re&show_offline=true&background_color=000000&interchange=true&bar_color=000000&bar_color_cover=true)](https://discord.gg/NPQsUrnjcM)
 
 
