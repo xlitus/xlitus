@@ -1,15 +1,15 @@
 ```lua
 ┌──────────────────────────────────────────┐  socials  -> :
-│                                          │    patched      : patched.to/User/xlitus
-│                                          │    telegram     : t.me/xLituss
-│                                          │    discord      : discord.gg/JHTjkF4KnB
-│     _   _ __    __ ______ __ __  __      │  
+│                                          │ +    telegram     : t.me/xLituss
+│                                          │ +    patched      : patched.to/User/xlitus
+│                                          │ +    discord      : discord.gg/JHTjkF4KnB
+│     _   _ __    __ ______ __ __  __      │
 │     \\ // ||    || | || | || || (( \     │  wallets  -> :
-│      )X(  ||    ||   ||   || ||  \\      │    btc          : bc1qjc0d4qgzjmqvl93hv8qwncswqz0dt49um5vcn9
-│     // \\ ||__| ||   ||   \\_// \_))     │    eth          : 0xC9bC30C3A9A79CdECf5e1eb1F16BE017E4677017
+│      )X(  ||    ||   ||   || ||  \\      │ +    btc          : bc1qjc0d4qgzjmqvl93hv8qwncswqz0dt49um5vcn9
+│     // \\ ||__| ||   ||   \\_// \_))     │ +    eth          : 0xC9bC30C3A9A79CdECf5e1eb1F16BE017E4677017
 │                                          │  
 │                                          │  company  -> :
-│                                          │    atlanta      : github.com/atlanta-k
+│                                          │ +    atlanta      : github.com/atlanta-k
 └──────────────────────────────────────────┘
 ```
 
