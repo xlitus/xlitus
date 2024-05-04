@@ -3,33 +3,13 @@
 [utelegram]:     https://t.me/xLituss
 [upatched]:      https://patched.to/User/xlitus
 [udiscord]:      https://discord.gg/JHTjkF4KnB
-
 [ubtc]:          bc1qjc0d4qgzjmqvl93hv8qwncswqz0dt49um5vcn9
 [ueth]:          0xC9bC30C3A9A79CdECf5e1eb1F16BE017E4677017
-
 [uatlanta]:      https://github.com/atlanta-k
-
-```c
-
-     .                  .            .
- .             _.--._       /|                  ┌────────────────────────────┐
-        .    .'()..()`.    / /                  │        _ _                 │
-            ( `-.__.-' )  ( (    .              │       | (_)_               │
-   .         \        /    \ \                  │  _   _| |_| |_ _   _  ___  │
-       .      \      /      ) )        .        │ ( \ / ) | |  _) | | |/___) │
-            .' -.__.- `.-.-'_.'                 │  ) X (| | | |_| |_| |___ | │
- .        .'  /-____-\  `.-'       .            │ (_/ \_)_|_|\___)____(___/  │
-          \  /-.____.-\  /-.                    └────────────────────────────┘
-           \ \`-.__.-'/ /\|\|           .
-          .'  `.    .'  `.
-```            
-
-
-
-
 
 <div align="center">
 
+<img src="https://github.com/xlitus/xlitus/assets/140287817/4c3ef07a-0d33-4a7a-b6c4-226fa3af1671" widht=100px height=350px align=left>
 
 [telegram][utelegram] • [patched][upatched] • [discord][udiscord]
 
@@ -42,3 +22,12 @@
 
   
 <div align="center">
+
+```c
+┌─────────────────────────────────────────────────────────────────────────────┐
+│ ATTENTION: Don't cry if you know I'm better than you,                       │
+│            try to catch up with me (even if it's impossible)                │
+└─────────────────────────────────────────────────────────────────────────────┘
+```
+
+</div>
