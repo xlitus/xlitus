@@ -24,10 +24,10 @@
 <div align="center">
 
 ```c
-┌─────────────────────────────────────────────────────────────────────────────┐
-│ ATTENTION: Don't cry if you know I'm better than you,                       │
-│            try to catch up with me (even if it's impossible)                │
-└─────────────────────────────────────────────────────────────────────────────┘
+┌─────────────────────────────────────────────────────────────────────┐
+│ ATTENTION: Don't cry if you know I'm better than you,               │
+│            try to catch up with me (even if it's impossible)        │
+└─────────────────────────────────────────────────────────────────────┘
 ```
 
 </div>
