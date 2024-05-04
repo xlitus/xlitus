@@ -1,7 +1,6 @@
 <!-- XLITUS URLS -->
 
 [utelegram]:     https://t.me/xLituss
-[upatched]:      https://patched.to/User/xlitus
 [udiscord]:      https://discord.gg/JHTjkF4KnB
 [ubtc]:          bc1qjc0d4qgzjmqvl93hv8qwncswqz0dt49um5vcn9
 [ueth]:          0xC9bC30C3A9A79CdECf5e1eb1F16BE017E4677017
@@ -16,7 +15,7 @@
 
 <!-- XLITUS LINKS -->
 
-[telegram][utelegram] • [patched][upatched] • [discord][udiscord]
+[telegram][utelegram] • [discord][udiscord]
 
 ---
 
