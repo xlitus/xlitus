@@ -15,7 +15,7 @@
 
 <!-- XLITUS LINKS -->
 
-[telegram][utelegram] • [discord][udiscord]
+[telegram][utelegram] • [discord][udiscord] • [atlanta][uatlanta]
 
 ---
 
@@ -25,15 +25,21 @@
 
 ---
   
-<div align="center">
+<div align="left">
 
 <!-- !!! MESSAGE !!! -->
 
-```c
+```python
+0x00234 = lambda: 0x0302458 -> ||| ??? ||| ??? ||| <- 0x0302458 | ⁇⁇⁇⁇
+
+"""
+output:
+
 ┌─────────────────────────────────────────────────────────────────────┐
 │ ATTENTION: Don't cry if you know I'm better than you,               │
 │            try to catch up with me (even if it's impossible)        │
 └─────────────────────────────────────────────────────────────────────┘
+"""
 ```
 
 </div>
