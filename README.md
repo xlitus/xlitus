@@ -25,15 +25,10 @@
 
 ---
   
-<div align="left">
+<div align="center">
 
-<!-- !!! MESSAGE !!! -->
+<!-- !!! STATS !!! -->
 
-```c
-┌─────────────────────────────────────────────────────────────────────┐
-│ ATTENTION: Don't cry if you know I'm better than you,               │
-│            try to catch up with me (even if it's impossible)        │
-└─────────────────────────────────────────────────────────────────────┘
-```
+<p style="text-align:center;"><img src="https://github-contributor-stats.vercel.app/api?username=xLitus&amp;limit=5&amp;theme=dark&amp;combine_all_yearly_contributions=true" alt=""></p>
 
 </div>
