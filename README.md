@@ -5,7 +5,7 @@
 [ubtc]:          bc1qjc0d4qgzjmqvl93hv8qwncswqz0dt49um5vcn9
 [ueth]:          0xC9bC30C3A9A79CdECf5e1eb1F16BE017E4677017
 [uatlanta]:      https://github.com/atlanta-k
-[uspotify]:      https://open.spotify.com/playlist/7EBsdHKb95DrKax57rrfBj?si=d9ed462c79894e76
+[uspotify]:      https://open.spotify.com/user/31t4h262rp3lt6d5xjg34hbawkta
 
 <div align="center">
 
