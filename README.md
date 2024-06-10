@@ -11,7 +11,7 @@
 
 <!-- XLITUS ANSI PFP -->
 
-<img src="https://github.com/xlitus/xlitus/assets/140287817/4c3ef07a-0d33-4a7a-b6c4-226fa3af1671" widht=100px height=350px align=left>
+<!--  <img src="https://github.com/xlitus/xlitus/assets/140287817/4c3ef07a-0d33-4a7a-b6c4-226fa3af1671" widht=100px height=350px align=left> -->
 
 <!-- XLITUS LINKS -->
 
